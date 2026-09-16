@@ -1,3 +1,7 @@
+## Parcours français
+
+Ce fork propose un parcours documentaire francophone : [voir docs/fr](./docs/fr/).
+
 # Origin DeFi's OTokens: Origin Dollar (OUSD) and Origin Ether (OETH)
 
 For more details about the product, checkout [our docs](https://docs.oeth.com).
